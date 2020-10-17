@@ -1,10 +1,10 @@
 import React from 'react';
-
-
+import Home from './component/home'
+import './assets/style/app.css'
 function App() {
   return (
-    <div className="App">
-     <h1>Hello</h1>
+    <div className="app">
+     <Home />
     </div>
   );
 }

@@ -1,0 +1,29 @@
+.home{
+    border: 1px solid gray;
+    padding: 30px;
+    position: relative;
+    overflow: hidden;
+}
+.bg{
+    position: absolute;
+    right: -300px;
+    top: -70%;
+    height: 200%;
+   
+}
+.Myname{
+    color: black;
+    font-size: 36px;
+}
+
+.smldesc{
+    color: #707070;
+    font-size: 36px;
+    max-width: 600px;
+}
+
+.contact{
+    color: #444444;
+    font-size: 24px;
+    max-width: 600px;
+}
