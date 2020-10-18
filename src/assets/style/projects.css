@@ -1,0 +1,35 @@
+.projects {
+  background-image: url("../images/projects.png");
+  /* background-position: right top; */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.projectCard {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 70%;
+}
+.project-image {
+  width: 100%;
+}
+.information h2 {
+  font-size: 24px;
+  color: #444444;
+  margin-top: 0;
+}
+.techUsed {
+  font-size: 20px;
+  color: #444444;
+}
+.project-descr {
+  width: 60%;
+  font-size: 18px;
+  color: #444444;
+}
+.repo img {
+  width: 20px;
+}
