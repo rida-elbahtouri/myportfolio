@@ -40,3 +40,17 @@
     left: 50%;
     transform: translate(-50%,-50%);
 }
+.container {
+        border: 1px solid gray;
+        padding: 30px;
+        position: relative;
+        overflow: hidden;
+        background-repeat: no-repeat;
+        min-height: 700px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        max-width: 1400px;
+        min-width: 80%;
+}

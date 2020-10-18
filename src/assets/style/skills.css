@@ -1,0 +1,10 @@
+.skills{
+ 
+    background-image: url('../images/bgskil.png');
+    background-position: left bottom;
+  
+}
+.aboutme{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

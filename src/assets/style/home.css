@@ -1,12 +1,9 @@
 .home{
-    border: 1px solid gray;
-    padding: 30px;
-    position: relative;
-    overflow: hidden;
+
     background-image: url('../images/Capture.PNG');
     background-position: right top;
-    background-repeat: no-repeat;
-    min-height: 700px;
+    
+  
 }
 .bg{
     position: absolute;
